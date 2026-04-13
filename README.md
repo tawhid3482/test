@@ -93,7 +93,8 @@ Allows modification of commit messages during interactive rebase.
 
 
 ## 📸 Screenshots
-screenshot/1st.png
+![1st image](screenshot/1st.png)
+
 
 <img src="screenshot/1st.png" alt="" width="100%">
 
