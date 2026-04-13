@@ -93,7 +93,7 @@ Allows modification of commit messages during interactive rebase.
 
 
 ## 📸 Screenshots
-![1st image]([screenshot/1st.png](https://github.com/tawhid3482/test/blob/19bb4f1572b43ac8bd02033af6ff7116f6bcdda5/Screenshot%202026-04-12%20154219.png))
+![1st image]([screenshot/1st.png](https://github.com/tawhid3482/test/blob/19bb4f1572b43ac8bd02033af6ff7116f6bcdda5/Screenshot%202026-04-12%20154219.png)
 
 
 <img src="screenshot/1st.png" alt="" width="100%">
